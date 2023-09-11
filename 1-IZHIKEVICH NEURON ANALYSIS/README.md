@@ -57,6 +57,6 @@ Different combinations of these parameters yield various neuron behaviors. Here 
 
 An interactive Izhikevich model has been implemented, allowing users to explore the behavior of different neuron types. It supports two modes: step-input and noisy-input current. Users can adjust parameters and observe changes in the membrane potential.
 
-![Interactive Izhikevich Model](https://github.com/cnrl/PymoNNtorch)
+You can see this part by running `interactive_Izhikevich_model.py`
 
 For detailed diagrams and simulations, refer to the full report and code.
