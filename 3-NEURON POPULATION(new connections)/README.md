@@ -1,6 +1,6 @@
 # Neuron Population with Izhikevich Model
 
-This repository contains the report and code for a computational neuroscience project conducted at the University of Tehran, Department of Computer Science. The project focuses on simulating neuron populations using the Izhikevich neuron model and analyzing their behavior and activities.
+The project focuses on simulating neuron populations using the Izhikevich neuron model and analyzing their behavior and activities.
 
 ## Simulation
 The project involves creating two excitatory populations and one inhibitory population, each consisting of homogeneous neurons with the same parameters. The size of the excitatory populations is 400, and the inhibitory population size is 100. Random currents from a normal distribution are injected into these populations for 300 iterations. Please note that there is randomness in the currents.

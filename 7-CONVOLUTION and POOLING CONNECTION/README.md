@@ -14,4 +14,4 @@ The project provides insights into the integration of convolution and pooling in
 
 ## Conclusion
 
-This report provides a detailed exploration of convolution and pooling connections in the context of Computational Neuroscience. It showcases the significance of these techniques in feature extraction, dimension reduction, and spike generation within Spiking Neural Networks. The examples presented illustrate the importance of parameter selection for optimal results.
+This project provides a detailed exploration of convolution and pooling connections in the context of Computational Neuroscience. It showcases the significance of these techniques in feature extraction, dimension reduction, and spike generation within Spiking Neural Networks. The examples presented illustrate the importance of parameter selection for optimal results.

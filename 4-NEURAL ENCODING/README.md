@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Neural Encoding" report explores various hypotheses of information representation in the brain, known as neural codes, which play a crucial role in the functioning of spiking neural networks (SNNs). Neural codes are essential for understanding how the brain transmits and processes information between neurons. The report discusses the debate between rate coding and temporal coding in the neuroscience community, highlighting the importance of both approaches in information encoding.
+The "Neural Encoding" project explores various hypotheses of information representation in the brain, known as neural codes, which play a crucial role in the functioning of spiking neural networks (SNNs). Neural codes are essential for understanding how the brain transmits and processes information between neurons. The report discusses the debate between rate coding and temporal coding in the neuroscience community, highlighting the importance of both approaches in information encoding.
 
 ## Two Encoding Methods Explored
 

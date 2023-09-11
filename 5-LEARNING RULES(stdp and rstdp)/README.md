@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This report delves into the world of neural learning, specifically focusing on two learning rules: FlatSTDP and FlatRSTDP. The project explores these learning mechanisms by implementing a model comprising two layers of Leaky Integrate-and-Fire (LIF) neurons. The first layer receives input in the form of spike trains, while the second layer consists of two neurons aiming to learn specific patterns. These layers are fully connected, and the patterns to be learned are generated from Poisson distributions.
+This project delves into the world of neural learning, specifically focusing on two learning rules: FlatSTDP and FlatRSTDP. The project explores these learning mechanisms by implementing a model comprising two layers of Leaky Integrate-and-Fire (LIF) neurons. The first layer receives input in the form of spike trains, while the second layer consists of two neurons aiming to learn specific patterns. These layers are fully connected, and the patterns to be learned are generated from Poisson distributions.
 
 Throughout this project, we inject inputs into the first layer and employ FlatSTDP and FlatRSTDP learning rules to train the neurons in the second layer. The report analyzes the evolution of synaptic weights during the training process and investigates the effects of parameter variations.
 
