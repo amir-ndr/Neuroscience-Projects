@@ -4,4 +4,4 @@ This project simulate and analyze Izhikevich and LIF neuron model, neural popula
 
 ---
 
-We used `PymoNNtorch <https://github.com/cnrl/PymoNNtorch/tree/main>` framework for this project
+We used `PymoNNtorch <https://github.com/cnrl/PymoNNtorch/tree/main>`_ framework for this project
